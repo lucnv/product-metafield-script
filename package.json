@@ -1,0 +1,8 @@
+{
+  "name": "product-metafield-script",
+  "version": "1.0.0",
+  "description": "Create and update product metafield",
+  "main": "index.js",
+  "author": "lucnguyen",
+  "license": "MIT"
+}

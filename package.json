@@ -4,5 +4,12 @@
   "description": "Create and update product metafield",
   "main": "index.js",
   "author": "lucnguyen",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "shopify-api-node": "^3.8.2"
+  }
 }
